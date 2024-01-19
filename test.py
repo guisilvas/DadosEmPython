@@ -56,9 +56,10 @@
 #         listNeu.append(item)
 # print(f"\nNúmeros positivos da lista: {listPos}\nNúmeros negativos da lista: {listNeg}\nNúmeros neutros: {listNeu}")
 
-list010 = [23, 41, 53.5, -342, 42, -52, -2, 0, 42, -5]
-listDouble = []
+# list010 = [23, 41, 53.5, -342, 42, -52, -2, 0, 42, -5]
+# listDouble = []
 
-for item in list010:
-    listDouble.append(item*2)
-print(listDouble)
+# for item in list010:
+#     listDouble.append(item*2)
+# print(listDouble)
+
